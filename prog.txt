@@ -1,6 +1,11 @@
 inserting
 asdjf
+<<<<<<< HEAD
 oejfoiawe
 lsdkfno
 jn
 fsadlijf
+=======
+oejfoiawejn
+new added
+>>>>>>> dev
